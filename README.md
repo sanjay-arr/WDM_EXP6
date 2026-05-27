@@ -14,8 +14,8 @@ sklearn to demonstrate Information Retrieval using the Vector Space Model.
 4. Define a search function that calculates cosine similarity between a query and documents based on the TF-IDF matrix.
 5. Execute a sample query and display the search results along with similarity scores.
 
-### Name: Ramya R
-### Reg No: 212223230169
+### Name: G Sanjay
+### Reg No: 212224230243
 ### Program:
 
     import requests
